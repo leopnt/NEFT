@@ -2,6 +2,8 @@
 Neuroevolution of Fixed Topology C++ library
 
 Find the GDscript version (Godot game engine) [here](https://github.com/leopnt/neft_godot)
+<div class="github-card" data-github="leopnt/neft_godot" data-width="400" data-height="" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 ## Install instructions for Windows 64bit
 - Download and install CMake. https://cmake.org/download/
