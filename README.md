@@ -1,10 +1,11 @@
 # NEFT
 Neuroevolution of Fixed Topology C++ library
 
-Find the GDscript version (Godot game engine) [here](https://github.com/leopnt/neft_godot)
-<div class="github-card" data-github="leopnt/neft_godot" data-width="400" data-height="" data-theme="default"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+**GDscript version (Godot game engine) [here](https://github.com/leopnt/neft_godot)**
 
+[![leopnt/neft_godot - GitHub](https://gh-card.dev/repos/leopnt/neft_godot.svg?fullname=)](https://github.com/leopnt/neft_godot)
+
+    
 ## Install instructions for Windows 64bit
 - Download and install CMake. https://cmake.org/download/
 - Download and install mingw-w64 (gcc, g++ compiler for windows)
