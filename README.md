@@ -3,7 +3,7 @@ Neuroevolution of Fixed Topology C++ library
 
 **GDscript version (Godot game engine) [here](https://github.com/leopnt/neft_godot)**
 
-[![leopnt/neft_godot - GitHub](https://gh-card.dev/repos/leopnt/neft_godot.svg?fullname=)](https://github.com/leopnt/neft_godot)
+[![leopnt/neft_godot - Github](https://github-readme-stats.vercel.app/api/pin/?username=leopnt&repo=neft_godot)](https://github.com/leopnt/neft_godot)
 
     
 ## Install instructions for Windows 64bit
